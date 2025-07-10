@@ -6,6 +6,10 @@
   --black-ball: black;
 }
 
+.add{
+  color: red;
+  text-align: center;
+}
 body {
   background-color: var(--primary-color);
   width: 100vw;
